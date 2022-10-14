@@ -7,11 +7,11 @@ $ git init .
 
 Ejecutar git status
 
-$ git status
+$ git statusCancel changes
 
 agregar el archivo a git
 
-  git config --global user.email "jgarrued@gmail.com"
+  git config --global user.email ""
   git config --global user.name "Jonnathan"
 
   Despues git status
