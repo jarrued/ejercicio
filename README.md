@@ -1,4 +1,4 @@
-crear repo local:
+crear repo local: modificado
 
 en shell ejecutar
 
